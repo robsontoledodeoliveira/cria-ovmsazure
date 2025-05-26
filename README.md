@@ -1,2 +1,2 @@
 # cria-ovmsazure
-Criação de VM Azure
+Criação de VM Azure com conexão RDP
